@@ -71,7 +71,8 @@
  - Framer Motion
  - Axios / Fetch
  - Recharts
-  **Backend**
+ 
+ **Backend**
  - Node.js
  - Express
  - SQLite3
