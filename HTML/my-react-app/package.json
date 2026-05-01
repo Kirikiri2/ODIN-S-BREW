@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Kirikiri2.github.io/ODIN-S-BREW",
+  "homepage": "https://kirikiri2.github.io/ODIN-S-BREW/",
   "type": "module",
   "scripts": {
     "dev": "vite",
